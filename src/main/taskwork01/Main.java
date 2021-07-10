@@ -1,4 +1,7 @@
 package main.taskwork01;
-
+// Вывести на консоль текст “Hello World!”
 public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
 }

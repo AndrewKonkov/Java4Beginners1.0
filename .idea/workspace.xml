@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6febdde-b8cd-462a-9341-236ccbda267a" name="Default Changelist" comment="" />
+    <list default="true" id="33ac6407-79b0-4454-885c-50141e8b029b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskWork01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TaskWork01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/taskwork01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/taskwork01/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +19,21 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1v7yh5frzUynssj1tJfM71D7Eje" />
+  <component name="ProjectId" id="1v873jT9mWozlQ9QUtufWaqXAQ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,39 +41,52 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.taskwork01.Main" />
+      <module name="TaskWork01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d6febdde-b8cd-462a-9341-236ccbda267a" name="Default Changelist" comment="" />
-      <created>1625927537631</created>
+      <changelist id="33ac6407-79b0-4454-885c-50141e8b029b" name="Default Changelist" comment="" />
+      <created>1625931664681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1625927537631</updated>
+      <updated>1625931664681</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1625928924035">
+    <state x="217" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625931793766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1625928924035" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625927837857">
+    <state x="217" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1625931793766" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1625931813478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1625927837857" />
-    <state x="443" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625927675544">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625931813478" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1625931813478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="443" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1625927675544" />
-    <state x="180" y="88" key="new project wizard" timestamp="1625928978854">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625931813478" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1625931813478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="180" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1625928978854" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625931813478" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1625931813478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625931813478" />
   </component>
 </project>
